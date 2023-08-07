@@ -11,7 +11,7 @@ This Python script generates a specified number of random email addresses by com
 ## Usage
 
 1. Make sure you have the required JSON file containing the list of names.
-2. Run the script using the command `python random_email_generator.py`.
+2. Run the script using the command `python genmail_v1.py`.
 3. Enter a comma-separated list of email domains when prompted.
 4. Enter the number of email addresses to generate.
 5. The script will generate random names, email addresses, and save them to a text file called "random_data.txt".
@@ -19,8 +19,8 @@ This Python script generates a specified number of random email addresses by com
 ## Example
 
 ```
-$ python random_email_generator.py
-Enter a list of email domains (comma-separated): gmail.com, outlook.com, yahoo.com
+$ python genmail_v1.py
+Enter a list of email domains (comma-separated): gmail.com,outlook.com,yahoo.com
 Enter the number of email addresses to generate: 10
 Data saved to random_data.txt
 ```
@@ -47,10 +47,7 @@ same directory as the script.
 ### HAVE FUN!
 Project Xamelion AG
 Robotic & Artificial Superintelligence
-
 http://t.me/Project_Xamelion_AG
-
 Create Peace and Love on Earth. 
 Maybe then we choose reproduction.
 (Q: Movie Lucie) 😁
-https://t.me/Project_Xamelion_AG
